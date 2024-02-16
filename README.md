@@ -32,13 +32,14 @@ The page shows Product title, Vendor name, Price, Compare at price, then calcula
 
 Add to cart button is just a dummy button
 ## Screenshots
+1. Mens Category
 ![image](https://github.com/Keerthimeera/Marmeto-E-commmerce-web-page/assets/159878921/288452e4-0da7-44b2-95ad-fb388521b876)
 
-
+2. Womens Category
 
 ![image](https://github.com/Keerthimeera/Marmeto-E-commmerce-web-page/assets/159878921/77eae913-7fd2-41b6-93c5-7e7d290c781b)
 
-
+3. Kids Category
 
 ![image](https://github.com/Keerthimeera/Marmeto-E-commmerce-web-page/assets/159878921/47e4b196-1907-4a5d-8c6f-5217f375e728)
 
