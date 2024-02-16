@@ -13,7 +13,7 @@ This is a simple landing page for an e-commerce product with a categories toggli
 
 ## Project Description
 
-The project consists of an HTML file (`index.html`), a CSS file (`style.css`), and a JavaScript file (`script.js`). The landing page displays product information, color and size options, and allows users to add the product to their cart.
+The project consists of an HTML file (`index.html`), a CSS file (`style.css`), and a JavaScript file (`script.js`). The landing page provides users with information about the different categories of clothes. user can select men,women or kids section by clicking that perticular button
 
 ## Files Included
 
@@ -35,7 +35,9 @@ Add to cart button is just a dummy button
 ![image](https://github.com/Keerthimeera/Marmeto-E-commmerce-web-page/assets/159878921/288452e4-0da7-44b2-95ad-fb388521b876)
 
 
+
 ![image](https://github.com/Keerthimeera/Marmeto-E-commmerce-web-page/assets/159878921/77eae913-7fd2-41b6-93c5-7e7d290c781b)
+
 
 
 ![image](https://github.com/Keerthimeera/Marmeto-E-commmerce-web-page/assets/159878921/47e4b196-1907-4a5d-8c6f-5217f375e728)
