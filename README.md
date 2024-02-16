@@ -2,7 +2,7 @@
 
 # categories selection Page
 
-This is a simple landing page for an e-commerce product with a categories toggling feature. The page includes product details, color and size options, and a quantity selector.
+This is a simple landing page for an e-commerce product with a categories toggling feature. The page includes product details, discount, and current offer.
 
 ## Table of Contents
 
